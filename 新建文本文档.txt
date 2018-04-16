@@ -1,0 +1,4 @@
+https://blog.csdn.net/u012891504/article/details/75356074
+
+
+java -jar ./JrebelBrainsLicenseServerforJava-1.0-SNAPSHOT-jar-with-dependencies.jar  -p 10086 &
